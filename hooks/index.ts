@@ -78,3 +78,4 @@ export { default as useTraceUpdate } from './useTraceUpdate';
 export { default as useLoginType } from './useLoginType';
 export { default as useLocalState } from './useLocalState';
 export { default as useCookieState } from './useCookieState';
+export { default as useHotkeys } from './useHotkeys';
